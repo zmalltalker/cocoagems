@@ -1,0 +1,16 @@
+CocoaGems is a Cocoa client for working with gems
+
+Features:
+* List local gems
+* Uninstall local gems (doesn't handle dependencies and missing permission for executables)
+
+
+Wish list:
+* Browse Rdoc
+* Configure gem sources
+* Search and install gems
+* Edit in textmate
+* Create new gems?
+
+
+This is in a very early stage of development, I (marius at shortcut.no) was challenged by my collegue August Lilleaas to share, so here it is
