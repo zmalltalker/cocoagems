@@ -13,4 +13,5 @@ Wish list:
 * Create new gems?
 
 
-This is in a very early stage of development, I (marius at shortcut.no) was challenged by my collegue August Lilleaas to share, so here it is
+This is in a very early stage of development, I (marius at shortcut.no) was challenged by my collegue August Lilleaas to share, so here it is.
+We probably need to change to using XIBs instead of NIBS, as these are nicer when collaborating...
